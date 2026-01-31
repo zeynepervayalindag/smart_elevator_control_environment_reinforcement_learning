@@ -21,4 +21,7 @@ Zamanı(t) minimize etmek
 En az yol(x) 
 
 ![Adsız video ‐ Clipchamp ile yapıldı](https://github.com/user-attachments/assets/8d62fd0a-e9d2-4343-ba04-fbbf93efe334)
+Şekil 1. Beş katlı bir binada tek asansörlü simülasyon ortamının genel görünümü.
+Beş katlı bir binada iki asansörlü simülasyon ortamının genel görünümüne github reposundan ulaşabilirsiniz.
+
 
